@@ -1,0 +1,19 @@
+a{
+    padding: 0;
+}
+li:hover{
+    cursor: pointer;
+    background-color:  rgb(26, 26, 26);
+    a{
+        color: aliceblue;
+        
+    }
+}
+nav{
+    background-color: #C9C7FB;
+    padding: 0;
+    height: 10vh;
+    li{
+        height: 100%;
+    };
+}
