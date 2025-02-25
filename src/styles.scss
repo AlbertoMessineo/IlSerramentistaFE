@@ -1,2 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
-// @import "~bootstrap/scss/bootstrap";
+/************* 
+VARIABLES - COLORS
+**************/
+// colori ufficiali
+$custom-primary:white;
+$custom-gold: #FFD700; //gold
+$custom-dark: #2d2d30; //dark
+$custom_white: #f5f7f3; //white
+
+
+body{
+    background-color: $custom-dark;
+}
